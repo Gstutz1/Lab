@@ -8,4 +8,7 @@ Here's a list of some animals:
 | ------ | 
 | Dog | 
 | Cat | 
-| Birds | 
+| Fish | 
+| cow | 
+| Pig | 
+| Pig | 
