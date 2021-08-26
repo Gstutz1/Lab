@@ -4,7 +4,7 @@ My name is **Tyler Gardella**.
 
 Here is a list of things that I like:
 
-* Playing piano
+* Playing trumpet
 * Playing video games
-* Giraffes
-* The color purple
+* Badgers
+* The color red
