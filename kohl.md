@@ -9,3 +9,4 @@ Here's a list of some animals:
 | Dog | 
 | Cat | 
 | Fish | 
+| Bear |
